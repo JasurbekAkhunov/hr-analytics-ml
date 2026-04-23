@@ -1,7 +1,6 @@
 <p align="center">
   <img src="drimble_logo.png" alt="DRIMBLE" height="80"/>
   <br/>
-  <b>DRIMBLE</b>
 </p>
 
 # HR-аналитика: «Работа с заботой»
